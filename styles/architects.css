@@ -164,7 +164,7 @@ main > section{
     font-size: 1.5rem;
     font-weight: 500;
     margin-left: -100px;
-    margin: 100px;
+    margin: -100px;
 }
 
 .experience-year{
@@ -234,7 +234,7 @@ main > section{
 footer{
     background-color: #FFF4E7;
     max-width: 100%;
-    padding: 38px 410px;
+    padding: 38px 310px;
     text-align: center;
     margin: 130px 240px 216px 240px;
 }
